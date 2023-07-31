@@ -1,3 +1,8 @@
+#### git clone https://github.com/denizakturk/api-integration.git
+
+#### Quick start with docker 
+    ./vendor/bin/sail up
+
 ## Test Case 1: API Authentication 
 ### /api/authenticate
 
