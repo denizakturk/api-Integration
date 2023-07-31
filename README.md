@@ -1,3 +1,19 @@
+## Test Case 1: API Authentication 
+### /api/authenticate
+
+## Test Case 2: API Endpoint Testing
+### /api/api-endpoint
+
+## Test Case 3: API Rate Limiting
+### /api/api-rate-limiting
+
+## Test Case 4: API Data Validation
+### /api/validate-api-data
+
+## Test Case 5: API Error Handling
+### /api/handle-api-error
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
